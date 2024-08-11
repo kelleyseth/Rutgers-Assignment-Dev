@@ -1,0 +1,5 @@
+3
+4
+2
+PlasticBottle 0 1
+Plywood 2 0

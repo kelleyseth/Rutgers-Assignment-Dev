@@ -1,0 +1,7 @@
+3
+3
+4
+Styrofoam 0 1
+TinCan 1 0
+Plywood 1 2
+Cardboard 2 1

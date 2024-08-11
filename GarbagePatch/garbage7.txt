@@ -1,0 +1,7 @@
+3
+3
+4
+FoodPeel 0 0
+Leather 0 2
+FishingLine 1 2
+GlassBottle 2 0

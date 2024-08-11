@@ -1,0 +1,9 @@
+8
+7
+8
+FoodPeel 0 0
+PlasticBottle 7 6
+PlasticGroceryBag 5 6
+Leather 0 6
+FishingLine 7 0
+TinCan 4 5

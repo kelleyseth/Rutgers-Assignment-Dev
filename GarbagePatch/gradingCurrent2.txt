@@ -1,0 +1,11 @@
+8
+7
+north east south south north east vortex
+west north vortex east west south north
+south vortex east north west south vortex
+east north south vortex west east south
+north south west north vortex east west
+east south vortex west north east south
+west north south east vortex west north
+south vortex east north west south vortex
+

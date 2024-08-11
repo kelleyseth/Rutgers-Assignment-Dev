@@ -1,0 +1,12 @@
+5
+5
+9
+PlasticGroceryBag 0 1
+Styrofoam 0 4
+Leather 2 0
+PlasticBottle 4 3
+PlasticGroceryBag 4 1
+GlassBottle 4 0
+FishingLine 3 4
+TinCan 0 2
+Cardboard 3 3

@@ -1,0 +1,5 @@
+3
+3
+east south west
+south south west
+vortex east north

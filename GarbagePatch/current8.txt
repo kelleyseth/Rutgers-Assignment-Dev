@@ -1,0 +1,7 @@
+5
+5
+south west north south west
+east vortex vortex west west
+south vortex vortex south west
+east north north south east
+west south north west west

@@ -1,0 +1,7 @@
+3
+3
+4
+PlasticBottle 0 2
+Paper 1 1
+GlassBottle 2 2
+Cardboard 2 2

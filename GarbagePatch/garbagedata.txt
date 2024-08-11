@@ -1,0 +1,13 @@
+12
+FoodPeel .048 .41
+Paper .115 1.12
+Cardboard .167 .69
+Plywood 2 .4 
+PlasticGroceryBag 15 1.03
+Styrofoam 50 .99
+TinCan 50 7.3
+Leather 50 .7
+AluminumCan 200 2.7
+PlasticBottle 450 1.35
+FishingLine 600 1.46
+GlassBottle 1000000 2.6

@@ -1,0 +1,7 @@
+4
+3
+4
+GlassBottle 0 2
+PlasticBottle 1 2
+FishingLine 2 2
+Leather 1 1
